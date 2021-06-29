@@ -108,7 +108,7 @@ ul {
   padding: 0;
 }
 
-/* Doesn't work with tabs */
+/* Doesn't look good with tabs */
 /* li::before {
       font-family: Impact;
       content: '\273A';
