@@ -3,16 +3,12 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Katie Devinney</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque velit, lobortis ut magna
-        varius, blandit rhoncus sem. Morbi lacinia nisi ac dui fermentum, sed luctus urna tincidunt.
-        Etiam ut feugiat ex. Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-        imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras rutrum
-        ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare
-        elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-        consequat. Vestibulum vitae lorem tortor. In elementum ultricies tempus. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus.
+        I am an SMU undergraduate with a degree in English. I have spent the past 8 years teaching
+        elementary school, and now I am diving into web development. Computers have always been a hobby of
+        mine, so I am excited to turn my passion into my career! Currently, I am enrolled in SMU's coding
+        boot camp and excited to launch a new career soon!
       </p>
     </div>
   );
