@@ -14,8 +14,8 @@ function Projects (){
          id = {proj.id}
          key={key}
          App={proj.App}
+        //  screenshot={proj.screenshot}
          description={proj.description}
-         screenshot={proj.screenshot}
          github={proj.github}
          live={proj.live}
          />

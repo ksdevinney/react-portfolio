@@ -10,6 +10,7 @@ function About() {
         mine, so I am excited to turn my passion into my career! Currently, I am enrolled in SMU's coding
         boot camp and excited to launch a new career soon!
       </p>
+      {/* <img className="bio-image" src="./assets/bio-image.jpg" alt="Katie Devinney"/> */}
     </div>
   );
 }

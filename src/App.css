@@ -80,9 +80,9 @@ a:hover {
   height: 150%;
 }
 
-p {
+/* p {
   text-align: left;
-}
+} */
 
 header {
   padding: 15px 6% 15px 0;
@@ -138,7 +138,7 @@ ul {
  align-items: flex-start;
 }
 
-#bio-image {
+.bio-image {
   border-radius: 15px 50px;
   margin-left: 30px;
 }
