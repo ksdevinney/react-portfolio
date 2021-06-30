@@ -1,4 +1,4 @@
-import React,{ useState } from "react";
+import React, { useState } from "react";
 import mywork from "./mywork.json"
 import Card from "../Card"
 
