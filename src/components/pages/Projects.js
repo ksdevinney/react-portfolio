@@ -9,12 +9,12 @@ function Projects (){
    
       <h1>My Work</h1>
       <div>
-       {mywork1.map((proj,key) => (
+       {mywork1.map((proj) => (
          <Card 
-         id = {proj.id}
-         key={key}
+         id={proj.id}
+         key={proj.id}
          App={proj.App}
-        //  screenshot={proj.screenshot}
+         image={proj.iamge}
          description={proj.description}
          github={proj.github}
          live={proj.live}

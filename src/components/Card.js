@@ -8,7 +8,7 @@ const Card = (props) => {
             <a href={props.github} target="_blank" rel="noreferrer">
                 <span className="tile">Github Repo</span></a>
                 <a href={props.live} target="_blank" rel="noreferrer">
-                    {/* <img src={props.screenshot} className="img-fluid project-img" alt={props.id} /> */}
+                    <img src={props.image} alt={props.App} />
                     </a>
         </div>
     )
