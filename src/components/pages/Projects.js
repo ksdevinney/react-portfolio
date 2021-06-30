@@ -4,6 +4,7 @@ import Card from "../Card"
 
 function Projects (){
   const [mywork1, setMywork] = useState(mywork)
+  console.log(mywork);
   return (
     <div className="container">
    
@@ -14,7 +15,7 @@ function Projects (){
          id={proj.id}
          key={proj.id}
          App={proj.App}
-         image={proj.iamge}
+         image={proj.image}
          description={proj.description}
          github={proj.github}
          live={proj.live}

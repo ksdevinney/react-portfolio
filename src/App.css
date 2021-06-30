@@ -120,6 +120,10 @@ ul {
   flex-direction: row;
 }
 
+.nav-link {
+  border: #7FC0C9;
+}
+
 .flex-container {
  display: flex;
  flex-direction: column; 
@@ -161,8 +165,9 @@ ul {
 
 .project-image {
   border: 5px solid #7FC0C9;
-  
-  /* margin: 15px; */
+  width: 33%;
+  height: 33%;
+  margin: 15px;
 }
 .card{
   width:100%;
