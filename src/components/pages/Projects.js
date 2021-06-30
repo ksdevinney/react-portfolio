@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import mywork from "./mywork.json"
+import mywork from "./mywork"
 import Card from "../Card"
 
 function Projects (){
