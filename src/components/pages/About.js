@@ -1,4 +1,5 @@
 import React from "react";
+import bioImage from "../../images/bio-image.JPG"
 
 function About() {
   return (
@@ -10,7 +11,7 @@ function About() {
         mine, so I am excited to turn my passion into my career! Currently, I am enrolled in SMU's coding
         boot camp and excited to launch a new career soon!
       </p>
-      <img className="bio-image" src="https://ibb.co/MMj7PvY" alt="Katie Devinney"/>
+      <img className="bioImage" src={bioImage} alt="Katie Devinney"/>
     </div>
   );
 }

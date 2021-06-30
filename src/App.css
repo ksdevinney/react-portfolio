@@ -80,10 +80,6 @@ a:hover {
   height: 150%;
 }
 
-/* p {
-  text-align: left;
-} */
-
 header {
   padding: 15px 6% 15px 0;
   display: flex;
@@ -119,14 +115,6 @@ ul {
   padding: 0;
 }
 
-/* Doesn't look good with tabs */
-/* li::before {
-      font-family: Impact;
-      content: '\273A';
-      color: #CECCDE;
-      margin-right: 5px;
-} */
-
 #about-me {
   display: flex;
   flex-direction: row;
@@ -138,9 +126,11 @@ ul {
  align-items: flex-start;
 }
 
-.bio-image {
-  border-radius: 15px 50px;
+.bioImage {
+  border-radius: 15px;
   margin-left: 30px;
+  width: 25%;
+  height: 25%;
 }
 
 .bio {
@@ -174,9 +164,10 @@ ul {
   
   /* margin: 15px; */
 }
-/* .card{
+.card{
   width:100%;
-} */
+}
+
 .container{
   width:90%;
   margin:5%;
@@ -198,9 +189,9 @@ ul {
       flex-direction: column;
   }
 
-  #bio-image {
-      max-width: 60%;
-      max-height: 60%;
+  .bioImage {
+      max-width: 20px;
+      max-height: 20px;
   }
 
   #experience {
