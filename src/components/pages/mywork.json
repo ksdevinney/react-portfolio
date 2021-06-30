@@ -1,10 +1,10 @@
 [
     {
         "id":1,
-        "App":"Password Generator",
-        "description": "JS APP",
-        "screenshot":"./images/password.jpg",
-        "github":"",
+        "App":"WeatherFlix",
+        "description": "Pick the perfect movie for you!",
+        "screenshot": "./public/weather-flix-hero.jpeg",
+        "github":"https://github.com/mirrorlessmind/WeatherFlix",
         "live":""
     },
     {
