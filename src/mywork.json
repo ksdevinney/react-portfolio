@@ -27,7 +27,7 @@
         "id":4,
         "App":"Weather Dashboard",
         "description": "Track weather conditions for multiple locations",
-        "image": "/weather-dashboard-screenshot.png",
+        "image": "https://ibb.co/4PQN9sL",
         "github":"https://github.com/ksdevinney/fuzzy-spork",
         "live":"https://ksdevinney.github.io/fuzzy-spork/"
     },
