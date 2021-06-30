@@ -9,9 +9,9 @@ import Footer from "./components/Footer"
 import './App.css'
 
 function App() {
-  return (
+  return (<div className="App">
     <Router>
-      <div>
+      <div className="app-html">
         <NavTabs />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
@@ -20,7 +20,7 @@ function App() {
         <Footer />
       </div>
     </Router>
-  );
+  </div>);
 }
 
 export default App;
